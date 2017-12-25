@@ -1,0 +1,24 @@
+{
+  "name": "tsms-api",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionRoar/TimestampMicroservice.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "moment": "*"
+  },
+  "author": "LionRoar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LionRoar/TimestampMicroservice/issues"
+  },
+  "homepage": "https://github.com/LionRoar/TimestampMicroservice#readme"
+}
